@@ -1,3 +1,4 @@
+# Laravel-Nuxt application seperated from main open-source project created by cretueusebiu a href="https://github.com/cretueusebiu/laravel-nuxt">Checkout main repository</a>
 # Laravel-Nuxt
 
 <a href="https://github.com/cretueusebiu/laravel-nuxt/actions"><img src="https://github.com/cretueusebiu/laravel-nuxt/workflows/tests/badge.svg" alt="Build Status"></a>
