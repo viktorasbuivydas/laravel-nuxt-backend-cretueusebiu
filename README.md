@@ -10,6 +10,7 @@
 <p align="center">
 <img src="https://i.imgur.com/NHFTsGt.png">
 </p>
+
 ## Laravel api for Nuxt spa
 
 ## Features
